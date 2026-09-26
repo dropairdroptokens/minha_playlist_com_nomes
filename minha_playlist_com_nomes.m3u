@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="Meus Canais",[DESKTOP]
-http://45.162.64.114/BAND_SPORTS/index.m3u8
-#EXTINF:-1 group-title="Meus Canais",[OFF]
-http://svrhost.club/series/2DUET8DUP/299RXM668/155695.mp4
-#EXTINF:-1 group-title="Meus Canais",[OFF]
+http://38.58.177.30:14266
+#EXTINF:-1 group-title="Meus Canais",[CHRIS]
+http://svrhost.club/2DUET8DUP/299RXM668/3271?tkn=1769722074
+#EXTINF:-1 group-title="Meus Canais",[MACGYVER]
 http://svrhost.club/2DUET8DUP/299RXM668/132592?tkn=1778183817
-#EXTINF:-1 group-title="Meus Canais",[OFF]
-http://38.58.177.30:14693
-#EXTINF:-1 group-title="Meus Canais",[OFF]
-http://38.58.177.30:14589
-#EXTINF:-1 group-title="Meus Canais",[OFF]
-http://38.58.177.30:14586
-#EXTINF:-1 group-title="Meus Canais",[OFF]
-http://38.58.177.30:14330
-#EXTINF:-1 group-title="Meus Canais",[OFF]
-http://38.58.177.30:14329
+#EXTINF:-1 group-title="Meus Canais",[SAI DE BAIXO]
+http://svrhost.club/2DUET8DUP/299RXM668/103507?tkn=1778183817
+#EXTINF:-1 group-title="Meus Canais",[MR.BEAN]
+http://svrhost.club/2DUET8DUP/299RXM668/3653?tkn=1778183817
+#EXTINF:-1 group-title="Meus Canais",[GUMBALL]
+http://svrhost.club/2DUET8DUP/299RXM668/3483?tkn=1778183817
+#EXTINF:-1 group-title="Meus Canais",[DU,DUDU]
+http://svrhost.club/2DUET8DUP/299RXM668/124702?tkn=1778183817
+#EXTINF:-1 group-title="Meus Canais",[THUNDERCATS]
+http://svrhost.club/2DUET8DUP/299RXM668/121319?tkn=1778183817
 #EXTINF:-1 group-title="Meus Canais",[OFF]
 http://38.58.177.30:14328
 #EXTINF:-1 group-title="Meus Canais",[OFF]
