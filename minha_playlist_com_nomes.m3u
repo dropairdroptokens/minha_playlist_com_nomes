@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="MUSIC",Vii2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Meus Canais",[DESKTOP]
 http://38.58.177.30:14266
 #EXTINF:-1 group-title="Meus Canais",[CHRIS]
