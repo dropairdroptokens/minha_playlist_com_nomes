@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CNN BRASIL" group-title="CNN",CNN BRASIL FHD
+https://d25usgadhphvwi.cloudfront.net//hls/stv-plus1920x1080/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN BRASIL" group-title="CNN",CNN BRASIL HD
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:-1 tvg-name="[CHRIS]" group-title="24H",[CHRIS]
 http://svrhost.club/2DUET8DUP/299RXM668/3271?tkn=1769722074
 #EXTINF:-1 tvg-name="[DESKTOP]" group-title="[OFF]",[DESKTOP]
