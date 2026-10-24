@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="OTAKU TV", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo09TyAZKXaWOxlb7IjZpOiCXbKlQedaj8VA&s", group-title="ANIMES",OTAKU TV
+#EXTINF:-1 tvg-name="OTAKU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo09TyAZKXaWOxlb7IjZpOiCXbKlQedaj8VA&s" group-title="ANIMES",OTAKU TV
 http://200.194.238.229:8383/live/otaku/index.m3u8
 #EXTINF:-1 tvg-name="CNN BRASIL" group-title="CNN",CNN BRASIL FHD
 https://d25usgadhphvwi.cloudfront.net//hls/stv-plus1920x1080/playlist.m3u8
