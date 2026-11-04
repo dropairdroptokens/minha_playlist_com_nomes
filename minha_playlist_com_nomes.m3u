@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="UIRAPURU" group-title="NOTICIAS",UIRAPURU TV
+https://video09.logicahost.com.br/rduirapuru/rduirapuru/main_stream.m3u8
 #EXTINF:-1 tvg-name="OTAKU TV" group-title="ANIMES",OTAKU TV
 http://200.194.238.229:8383/live/otaku/index.m3u8
 #EXTINF:-1 tvg-name="CNN BRASIL" group-title="CNN",CNN BRASIL FHD
