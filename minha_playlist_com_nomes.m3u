@@ -312,11 +312,7 @@ http://38.58.177.30:14238
 #EXTINF:-1 tvg-name="CNBC" group-title="NEWS",CNBC
 http://38.58.177.30:14237
 #EXTINF:-1 tvg-name="CNN BRASIL" group-title="CNN",CNN BRASIL
-http://38.58.177.30:14240
-#EXTINF:-1 tvg-name="CNN BRASIL" group-title="CNN",CNN BRASIL
 http://142.99.103.19:14306
-#EXTINF:-1 tvg-name="CNN BRASIL" group-title="CNN",CNN BRASIL
-http://142.99.103.19:14149
 #EXTINF:-1 tvg-name="CNN INTERNACIONAL" group-title="CNN",CNN INTERNACIONAL
 http://38.58.177.30:14247
 #EXTINF:-1 tvg-name="CNN INTERNACIONAL" group-title="CNN",CNN INTERNACIONAL
